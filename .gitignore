@@ -18,3 +18,4 @@ NOTICE*
 
 # Temporary files
 .DS_Store
+conf/*
