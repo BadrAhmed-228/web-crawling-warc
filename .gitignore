@@ -19,3 +19,4 @@ NOTICE*
 # Temporary files
 .DS_Store
 conf/*
+!/warc-files/*.warc
